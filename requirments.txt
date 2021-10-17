@@ -1,6 +1,8 @@
-Flask==1.1.2
-click==7.1.2
-gunicorn==20.1.0
-numpy
-pandas==1.2.3
 scikit-learn
+pandas
+numpy
+sklearn
+flask
+matplotlib
+gunicorn
+seaborn
