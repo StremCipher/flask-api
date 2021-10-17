@@ -23,7 +23,7 @@ def loadpage():
         # print(result)
         # print(result["rating"][0],result["rating"][1]) # accessing the each data of json object
         # return result   # returning the json object
-        return render_template('index.html', rating=result)
+        # return render_template('index.html', rating=result)
     return render_template('index.html')
 
 
